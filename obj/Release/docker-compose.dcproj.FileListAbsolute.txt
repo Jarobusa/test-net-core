@@ -1,0 +1,2 @@
+D:\sources\repos\Test\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+D:\sources\repos\test-net-core\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache

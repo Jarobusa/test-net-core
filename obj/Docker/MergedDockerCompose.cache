@@ -1,0 +1,7 @@
+services:
+  test:
+    build:
+      context: D:\sources\repos\test-net-core
+      dockerfile: Test/Dockerfile
+    image: test
+version: '3.4'
